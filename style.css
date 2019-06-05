@@ -1,0 +1,38 @@
+body {
+    background-image: url("background.jpg");
+    
+}
+
+#content {
+    background-image: url("content-background.png");
+    border-radius: 50px;
+    border:solid;
+    margin:auto;
+    padding:5%;
+    width: 70%;
+    
+    
+    color:black;
+    overflow: hidden;
+    font-family: Comfortaa;
+    font-size: 20px;
+}
+
+.logo {
+    width:40%;
+    opacity:1;
+}
+
+.content-img {
+    opacity:1;
+}
+
+.highlight {
+    color:rgb(75, 15, 15);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+
+}
