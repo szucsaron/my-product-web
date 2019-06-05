@@ -31,8 +31,7 @@ body {
     color:rgb(75, 15, 15);
 }
 
-.center {
-    margin-left: auto;
-    margin-right: auto;
+.center-text {
+    text-align:center;
 
 }
